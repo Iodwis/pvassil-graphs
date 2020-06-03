@@ -5,6 +5,8 @@ Open a terminal to the folder where the file is located and execute the command:
 
 > imp USERID=pvassil/pvassil@localhost:1521/XEPDB1 FILE=graphs_2020_06_03.dmp FROMUSER=pvassil TOUSER=pvassil
 
+PS: user(touser) pvassil has to be created before import command.
+
 ## Import Workspace to Oracle Apex
 ### files: WORKSPACE_PVASSIL.sql 
 
