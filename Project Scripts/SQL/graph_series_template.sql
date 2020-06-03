@@ -1,3 +1,4 @@
+-- this is a template PL/SQL query for the graphs series
 -- groupby: value by user input corresponding to pentade/decade/twentade
 -- mycountry: country's id
 -- myindicator: indicator's id
